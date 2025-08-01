@@ -1,0 +1,13 @@
+numpy
+pypdf2
+pdf2image
+pyrogram
+pyromod
+pymupdf
+pyromod
+reportlab
+tgcrypto
+pillow
+img2pdf
+scikit-image
+redis
